@@ -1,3 +1,2 @@
-# Test
-Test Repo
+My first Repo
 Hello World
